@@ -247,6 +247,7 @@ public class StackStruTest {
 重新查看，发现还是被优化了
 
 ```
+
 ```
 
 ### 总结
@@ -304,4 +305,4 @@ Java 虚拟机的启动时通过引导类加载器（bootstrap class loader）�
   - JDK 1.3 时，HotSpot VM 成为默认虚拟机
 - 目前 
 
-![sd](./pic/02_JVM架构.drawio.png)
+![sd](./pic/02_JVM架构_中文.drawio.png)
